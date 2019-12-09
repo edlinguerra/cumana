@@ -1,0 +1,6 @@
+Diseño de muestreo Cumana - agujeros de cangrejos
+
+Datos por mes, especificados en cada pestaña
+Muestreo: Tres transectos, cada uno con cuatro puntos ordenados desde la costa hasta tierra adentro (a, b, c, d)
+Variables: Agujeros de Ucides y Cardisoma
+Variables: Agujeros abiertos o tapados
